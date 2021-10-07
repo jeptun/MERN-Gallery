@@ -68,4 +68,4 @@ Aktuálně není dodělaný carousel + zlobí vložení samotného obr. V datab 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[product-screenshot]: images/img1.png
+[product-screenshot]: images/img1.PNG
