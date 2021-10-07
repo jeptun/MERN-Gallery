@@ -38,7 +38,7 @@ V aplikaci je použito.
 <!-- GETTING STARTED -->
 
 ### Instalace
-1. Install packages
+1. Install packages ( split terminal ) 
 ```sh
   cd client 
   cd server
