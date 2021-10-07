@@ -10,7 +10,7 @@
 <!-- ABOUT THE PROJECT -->
 ## O projektu
 
-[Product Name Screen Shot][product-screenshot]
+[![Product Name Screen Shot][product-screenshot]]
 
 Tato Webová aplikace je vytovřena pomoci tutoriálu na [JS mastery](https://www.youtube.com/watch?v=ngc9gnGgUdA&ab_channel=JavaScriptMastery).
 Aktuálně není aplikace dokončená a jsem ve fázi 3.5 / 5. Tuto sérii, kůrzů nejlepe ještě projet!
