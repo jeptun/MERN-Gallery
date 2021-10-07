@@ -1,0 +1,29 @@
+Postup při vytvoření Webove aplikace Budy Server
+
+Aktuálně App stojí na | React + Redux, Node, Express, MongoDB!
+První část vytvoření 2 složek Client a Server!
+Client // Instalace npx create-react-app 
+Server // vytvoření Json package.json pomoci npm init -y
+Následná instalace balíčků v Server složce
+ v Server // npm install body-parser cors express mongoose nodemon // ve složce server vytvořím index.js a impurtuji baličky!
+
+ V package.json přidám "type":"module", pod "main": index.js, 
+ (důležité jsou čárky nakonci), ve "scripts" nahradim obsah na "start": "nodemon index.js",
+
+ Následná instalace balíčků v Client složce
+ v client // npm install axios moment react-file-base64 --force redux redux-thunk
+  (u react-file-base64 --force je změna od 15verze node... a je třeba force. Případná lepší instalace solo přes npm react-file-base64 --force )
+
+Heslo k mongoose databazi ( Heslokdatabazi123)
+instalace dalšího baličku do clienta npm install @material-ui/core
+
+/// JWT json web token
+
+https://console.cloud.google.com/apis/credentials?project=fiery-spider-319222
+
+
+
+    /*details: "Not a valid origin for the client: http://localhost:3000 has not been registered for 
+    client ID 876275936948-ra7f946uqgunsv0nvaagtksqmsps9uj5.apps.googleusercontent.com. 
+    Please go to https://console.developers.google.com/ and register this origin for your project's client ID."
+    error: "idpiframe_initialization_failed" */
