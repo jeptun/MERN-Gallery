@@ -11,10 +11,7 @@
 ## O projektu
 [![Product Name Screen Shot][product-screenshot]]
 
-Tato Webová aplikace je vytovřena pomoci tutoriálu na [JS mastery](https://www.youtube.com/watch?v=ngc9gnGgUdA&ab_channel=JavaScriptMastery).
-Aktuálně není aplikace dokončená a jsem ve fázi 3.5 / 5. Tuto sérii, kurzů nejlepe ještě projet!
-Jedná se o galeri do které můžou přihlášení uživatelé vkládat nové obrázky či dat like jinému příspěvku. 
-Přispěvky v galerii lze mazat i upravovat. Aplikace stojí na React, Node.js, Express & MongoDB ke které se pomoci (JWT) + Google OAuth Authentication lze přihlásit. 
+!Rozpracováno! Tato webová aplikace je vytvořena pomocí tutorialu na [JS mastery](https://www.youtube.com/watch?v=ngc9gnGgUdA&ab_channel=JavaScriptMastery). Jedná se o galerii, do které mohou přihlášení uživatelé vkládat nové obrázky. Příspěvky v galerii lze olajkovat, upravovat i mazat. Aplikace stojí na React, Node.js, Express & MongoDB, ke které se lze přihlásit pomocí (JWT) + Google OAuth Authentication.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
